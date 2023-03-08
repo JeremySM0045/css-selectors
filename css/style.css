@@ -61,3 +61,7 @@ main > section h2 + p strong {
 li:nth-of-type(2) {
     color: purple;
 }
+
+dl div:last-of-type {
+    background-color: #ccc;
+}
