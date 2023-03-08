@@ -41,3 +41,7 @@ header > p {
     width: 150px;
     border-radius: 50%;
 }
+
+[rel="external"] {
+    color: purple;
+}
