@@ -57,3 +57,7 @@ main > section {
 main > section h2 + p strong {
     color: purple;
 }
+
+li:nth-of-type(2) {
+    color: purple;
+}
